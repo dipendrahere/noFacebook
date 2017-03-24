@@ -30,4 +30,4 @@ To load the unpacked extension click on Load Unpacked Extension Button
 
 Browse noFacebook folder and select.
 
-**Voila!** now you can concentrate *with using facebook very less* :smile:
+**Voila!** now you can concentrate *without enjoying facebook much* :smile:
