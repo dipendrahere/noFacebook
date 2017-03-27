@@ -17,7 +17,7 @@ To download the package
 git clone https://github.com/gadabout-geek/noFacebook.git
 ```
 
-After this open you Google-Chrome browser and visit to
+After this open your Google-Chrome browser and visit to
 `chrome://extensions`
 
 Make sure you enable the Developer mode
